@@ -3,7 +3,8 @@
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
 <br/>
-<h3 align="left">Information Security Analyst / Implementation Engineer / Solutions Engineer </h3>
+<h3 align="left">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
+I am an Information Security Professional passionate about Security Operations **[vulnerability management, incident response, compliance and risk management]** and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture. 🌍 
 
  
 - 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
@@ -16,16 +17,12 @@
 
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
 
-- 📫 You can reach me **thatoneblerd@gmail[.]com** OR
-<a href="https://linkedin.com/in/ashantidstafford">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  // **Instagram (soon)**
-
-<br/>
-**I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 
-👩‍💻 🌍 
+- 📫 You can reach me **thatoneblerd@gmail[.]com** OR <a href="https://linkedin.com/in/ashantidstafford">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
 
 
 <br/>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
 <a href="#">
@@ -57,8 +54,8 @@
 </p>
 
 <br/>
-<p align="center">
-**IN PROGRESS**
+
+<p align="center"> **IN PROGRESS**
 <br/>
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>  
@@ -68,7 +65,10 @@
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
     <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></a>  
-</p> 
 
+ 
+<br/>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
+ 
+ </p> 
