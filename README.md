@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
-<p align="center">
 **Information Security Analyst / Implementation Engineer / Solutions Engineer **
 <br/>
 **I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
-</p>
+
 <br/>
 
 - 🏗️ I’m working on compiling my projects/writeups and obtaining my **Sec+ & CySA+ certifications.**
@@ -64,4 +63,4 @@
 </p> 
 
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
+<a href="https://git.io/streak-stats" style="margin:auto"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
