@@ -20,11 +20,12 @@ I am an Information Security Professional passionate about Security Operations *
 
 - 📫 You can reach me **thatoneblerd[@]gmail[.]com** OR <a href="https://linkedin.com/in/ashantidstafford">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
-    
+
+<br/>
     
 <h3 align="left"> 🏗️ Projects + Labs 🏗️ </h3>   
 
-- [Kali-Metasploitable Hacking Lab]([https://github.com/thatoneblerd/Hacking-Lab])
+- [Kali-Metasploitable Hacking Lab](https://github.com/thatoneblerd/Hacking-Lab)
 
 - Cybersecurity Homelab for Detection & Monitoring - soon
 
