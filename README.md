@@ -1,17 +1,19 @@
 # thatoneblerd
- 👋🏽 Hi. Hello. Howdy. I'm Ashanti.
-Information Security Analyst / Implementation Engineer / Solutions Engineer
+<h1 align="center">Hi there, <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px">, I'm Ashanti Stafford (Ash) </h1>
+Pronouns: She/her They/them
+**Information Security Analyst / Implementation Engineer / Solutions Engineer**
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashantidstafford)
+<br/>
 
-🔍 Learn more about my career experiences: https://www.linkedin.com/in/ashantidstafford/
+---
 
-🛡️ Although I have the hands-on experience, I'm currently working on obtaining my Sec+, CySA+, and BTL1 certifications.
+I am an Information Security Professional passionate about Security Operations ( vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture. 🌍 
 
-👩‍💻 All of my projects are available for review here on GitHub. Feel free to send any questions my way.
+---
 
-Project-wise: I’m currently working on security projects surrounding vulnerability management, incident response, compliance management, and risk management.
-
-Tools used include: Metasploit Nmap Burp Suite Wireshark Splunk LogRhythm Elastic Stack (ELK) IBM QRadar Nessus OpenVAS Qualys
-
-📝 I occasionally write articles/walk-throughs : (Medium link coming son)
-
-📬 Talk nerdy to me! Ask me about Infosecurity & Cloud Security. You can reach me thatoneblerd@gmail.com
+- 😄🧠 I’m currently working on compiling my projects/writeups and obtaining my Sec+ & CySA+ certifications.
+- 🌱 I’m currently learning Python scripting  & Cloud Detection/Response for Azure.
+- 👯⚡ I’m looking to collaborate on Security Automation projects with Python & Terraform
+- 🔭 I’m looking for help with **Cloud Security Projects**
+- 🤔💬 Ask me about ...
+- 📫 How to reach me: Talk nerdy to me! Ask me about Infosecurity & Cloud Security. You can reach me thatoneblerd@gmail[.]com
