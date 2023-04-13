@@ -3,6 +3,7 @@
 
 <p align="center">
 **Information Security Analyst / Implementation Engineer / Solutions Engineer** 
+<br/>
 <a href="https://linkedin.com/in/ashantidstafford">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 
@@ -14,9 +15,9 @@
 
 - 🧠 I’m currently working on compiling my projects/writeups and obtaining my **Sec+ & CySA+ certifications.**
 - 🌱 I’m currently learning **Python scripting  & Cloud Detection/Response for Azure.**
-- 💬 I’m looking to collaborate on **Cloud Security Projects.**
+- 🤔 I’m looking to collaborate on **Cloud Security Projects.**
 - 🔭 I’m looking for help with **Security Automation projects with Python & Terraform.**
-- 🤔 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
+- 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
 - 📫 You can reach me **thatoneblerd@gmail[.]com**
 
 </p>
@@ -42,8 +43,7 @@
 <a href="#">
     <img src="svg/dev/services/exchange.svg" alt="exchange" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
-    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px"></a> 
-    
+    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px"></a>   
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#">
@@ -56,13 +56,10 @@
 **IN PROGRESS**
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>  
-
 <a href="#">
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></a> 
-
 <a href="#">
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px"></a> 
-  
 <a href="#">
     <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></a>  
 </p>
