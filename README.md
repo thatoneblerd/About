@@ -6,6 +6,7 @@
 <h3 align="left">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
 I am an Information Security Professional passionate about Security Operations **[vulnerability management, incident response, compliance and risk management]** and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture. 🌍 
 
+
  
 - 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
@@ -17,14 +18,14 @@ I am an Information Security Professional passionate about Security Operations *
 
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
 
-- 📫 You can reach me **thatoneblerd@gmail[.]com** OR <a href="https://linkedin.com/in/ashantidstafford">
+- 📫 You can reach me **thatoneblerd[@]gmail[.]com** OR <a href="https://linkedin.com/in/ashantidstafford">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
 
 
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="#">
     <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
@@ -49,14 +50,13 @@ I am an Information Security Professional passionate about Security Operations *
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"></a> 
-<a href="#">
-    <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
 <br/>
 
-<p align="center"> **IN PROGRESS**
-<br/>
+
+<h4 align="center"> IN PROGRESS </h4>
+<p align="center">
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#">
