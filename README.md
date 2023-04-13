@@ -8,7 +8,7 @@ I am an Information Security Professional passionate about Security Operations *
 
 <br/>
 
-<h3 align="center">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
+<h3 align="left">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
  
 - 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
