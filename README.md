@@ -1,17 +1,10 @@
 # thatoneblerd
 
-<h1 align="left">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
+<h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
 <br/>
-<h4 align="left">Information Security Analyst / Implementation Engineer / Solutions Engineer</h4>
+<h3 align="left">Information Security Analyst / Implementation Engineer / Solutions Engineer </h3>
 
-<br/>
-**I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
-
-- 📫 You can reach me **thatoneblerd@gmail[.]com** // <a href="https://linkedin.com/in/ashantidstafford">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  // Instagram (soon)
-
-<br/>
  
 - 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
@@ -23,6 +16,13 @@
 
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
 
+- 📫 You can reach me **thatoneblerd@gmail[.]com** OR
+<a href="https://linkedin.com/in/ashantidstafford">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  // **Instagram (soon)**
+
+<br/>
+**I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 
+👩‍💻 🌍 
 
 
 <br/>
