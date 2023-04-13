@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatoneblerd&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
 
 <p align="center">
 **Information Security Analyst / Implementation Engineer / Solutions Engineer **
