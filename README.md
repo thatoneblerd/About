@@ -1,5 +1,3 @@
-# about-me
-
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
 <br/>
