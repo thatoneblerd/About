@@ -22,9 +22,12 @@ I am an Information Security Professional passionate about Security Operations *
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
     
     
-<h3 align="left"> 🏗️ Projects + Labs 🏗️ </h3>    
+<h3 align="left"> 🏗️ Projects + Labs 🏗️ </h3>   
+
 - [Kali-Metasploitable Hacking Lab]([https://github.com/thatoneblerd/Hacking-Lab])
+
 - Cybersecurity Homelab for Detection & Monitoring - soon
+
 - Azure Cloud Detection Lab - soon
 
 
