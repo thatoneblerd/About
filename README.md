@@ -1,29 +1,31 @@
-# thatoneblerd - Information Security Analyst / Implementation Engineer / Solutions Engineer
+# thatoneblerd
 
 <h1 align="left">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
 <br/>
-
-**I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
+<h4 align="left">Information Security Analyst / Implementation Engineer / Solutions Engineer</h4>
 
 <br/>
+**I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
 
-- 🏗️ I’m working on compiling my projects/writeups and obtaining my **Sec+ & CySA+ certifications.**
+- 📫 You can reach me **thatoneblerd@gmail[.]com** // <a href="https://linkedin.com/in/ashantidstafford">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  // Instagram (soon)
+
+<br/>
+ 
+- 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
 - 🧠 I’m currently learning **Python scripting  & Cloud Detection/Response for Azure.**
 
-- 👥 I’m looking to collaborate on **Cloud Security Projects.**
+- 👥 I’m always interesed to collaborate on **Cloud Security Projects,Threat Detection, Home Labs & more.**
 
 - 🤔 I’m looking for help with **Security Automation with Python & Terraform.**
 
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
 
-- 📫 You can reach me **thatoneblerd@gmail[.]com** or <a href="https://linkedin.com/in/ashantidstafford">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 
 
 <br/>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
 <a href="#">
@@ -54,6 +56,7 @@
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
+<br/>
 <p align="center">
 **IN PROGRESS**
 <br/>
@@ -68,4 +71,4 @@
 </p> 
 
 
-<a href="https://git.io/streak-stats" style="margin:auto"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thatoneblerd"/></a>
