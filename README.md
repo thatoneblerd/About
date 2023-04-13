@@ -1,18 +1,23 @@
-# thatoneblerd
+# thatoneblerd - Information Security Analyst / Implementation Engineer / Solutions Engineer
 
-<h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
+<h1 align="left">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
 
-**Information Security Analyst / Implementation Engineer / Solutions Engineer **
 <br/>
+
 **I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
 
 <br/>
 
 - 🏗️ I’m working on compiling my projects/writeups and obtaining my **Sec+ & CySA+ certifications.**
+
 - 🧠 I’m currently learning **Python scripting  & Cloud Detection/Response for Azure.**
+
 - 👥 I’m looking to collaborate on **Cloud Security Projects.**
+
 - 🤔 I’m looking for help with **Security Automation with Python & Terraform.**
+
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
+
 - 📫 You can reach me **thatoneblerd@gmail[.]com** or <a href="https://linkedin.com/in/ashantidstafford">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 
