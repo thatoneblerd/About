@@ -8,9 +8,9 @@ I am an Information Security Professional passionate about Security Operations *
 
 <h3 align="left">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
  
-- 🏗️ I’m working on compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
+- I’m currently compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
-- 🧠 I’m currently learning **Python scripting  & Cloud Detection/Response for Azure.**
+- 🧠 I’m learning **Python scripting  & Cloud Detection/Response for Azure.**
 
 - 👥 I’m always interesed to collaborate on **Cloud Security Projects,Threat Detection, Home Labs & more.**
 
@@ -20,6 +20,12 @@ I am an Information Security Professional passionate about Security Operations *
 
 - 📫 You can reach me **thatoneblerd[@]gmail[.]com** OR <a href="https://linkedin.com/in/ashantidstafford">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
+    
+    
+<h3 align="left"> 🏗️ Projects + Labs 🏗️ </h3>    
+[Kali-Metasploitable Hacking Lab]([url](https://github.com/thatoneblerd/Hacking-Lab))
+Cybersecurity Homelab for Detection & Monitoring - soon
+Azure Cloud Detection Lab - soon
 
 
 <br/>
