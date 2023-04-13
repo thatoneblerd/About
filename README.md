@@ -1,14 +1,10 @@
 # thatoneblerd
-<h1 align="center">Hi Hey Hello there, 👋🏽 I'm Ashanti (Ash) </h1>
+<h2 align="center">Hi Hey Hello there, 👋🏽 I'm Ashanti (Ash) </h2>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatoneblerd&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">
-**Information Security Analyst / Implementation Engineer / Solutions Engineer** 
+##Information Security Analyst / Implementation Engineer / Solutions Engineer
 <br/>
-<a href="https://linkedin.com/in/ashantidstafford">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
-
-<br/>
-
 **I am an Information Security Professional passionate about Security Operations (vulnerability management, incident response, compliance and risk management) and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture.** 🌍 
 
 <br/>
@@ -18,14 +14,15 @@
 - 🤔 I’m looking to collaborate on **Cloud Security Projects.**
 - 🔭 I’m looking for help with **Security Automation projects with Python & Terraform.**
 - 💬 Talk nerdy to me! Ask me about **Infosecurity & Cloud Security.** 
-- 📫 You can reach me **thatoneblerd@gmail[.]com**
-
+- 📫 You can reach me **thatoneblerd@gmail[.]com** or 
+<a href="https://linkedin.com/in/ashantidstafford">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 </p>
 
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <a href="#">
     <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
@@ -52,8 +49,11 @@
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
     <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px"></a>
- 
+</p>
+
+<p align="center">
 **IN PROGRESS**
+<br/>
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#">
@@ -62,4 +62,4 @@
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px"></a> 
 <a href="#">
     <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></a>  
-</p>
+</p> 
