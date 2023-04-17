@@ -2,7 +2,8 @@
 
 <br/>
 
-<h3 align="left">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
+<h3 align="center">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
+
 
 I am an Information Security Professional passionate about Security Operations **[vulnerability management, incident response, compliance and risk management]** and sharing my learnings through this journey. When I'm not immersed in my screen, you can catch me immersed in all things travel, food, and culture. 🌍 
 
