@@ -1,6 +1,4 @@
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
-  <script src="https://tryhackme.com/badge/715326"></script>
-
 <br/>
 
 <h3 align="center">👩‍💻 Information Security Analyst / Implementation Engineer / Solutions Engineer 👩‍💻 </h3>
