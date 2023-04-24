@@ -1,4 +1,5 @@
 <h1 align="center">Hi - Hey - Hello there, 👋🏽 I'm Ashanti [Ash] </h1>
+  <script src="https://tryhackme.com/badge/715326"></script>
 
 <br/>
 
@@ -68,7 +69,6 @@ I am an Information Security Professional passionate about Security Operations *
 
 <h4 align="center"> IN PROGRESS </h4>
 <p align="center">
-  <script src="https://tryhackme.com/badge/715326"></script>
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#">
